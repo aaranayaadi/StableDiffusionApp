@@ -1,6 +1,9 @@
 # StableDiffusionApp
 Stable Diffusion python app for text to image generation
+
+
 ![Screenshot 2024-07-10 225255](https://github.com/aaranayaadi/StableDiffusionApp/assets/37096846/bf1ee593-2176-4c64-a2d2-447b2a788ebf)
+
 ![Screenshot 2024-07-10 225329](https://github.com/aaranayaadi/StableDiffusionApp/assets/37096846/79a7c3fa-9f24-4383-bf9c-404a82d2aa27)
 
 This repository contains a desktop application for text-to-image generation using the Stable Diffusion model. The application is built with `tkinter` and `customtkinter` for the GUI, `pytorch` for deep learning, and the `stablediffusion` pipeline. The model used is `CompVis/stable-diffusion-v1-4`, which is available on HuggingFace.
